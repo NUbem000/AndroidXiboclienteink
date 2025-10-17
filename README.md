@@ -3,10 +3,20 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9%2B-purple.svg)](https://kotlinlang.org/)
+[![Release](https://img.shields.io/github/v/release/NUbem000/AndroidXiboclienteink?include_prereleases)](https://github.com/NUbem000/AndroidXiboclienteink/releases)
 
 **Xibo Digital Signage Client optimized for E-ink displays on Android tablets**
 
 An open-source Android application that brings Xibo CMS digital signage capabilities to E-ink/E-paper displays, specifically optimized for devices with Allwinner SoCs.
+
+## 📥 Download
+
+**Latest Release:** [v0.1.0-alpha](https://github.com/NUbem000/AndroidXiboclienteink/releases/tag/v0.1.0-alpha)
+
+**Direct Download:** [app-debug.apk](https://github.com/NUbem000/AndroidXiboclienteink/releases/download/v0.1.0-alpha/app-debug.apk) (9.4 MB)
+
+> **Note:** Esta es una versión POC (Proof of Concept). La integración con Xibo CMS está planificada para la Fase 2.
+> Esta versión valida la arquitectura del proyecto y el control e-ink nativo.
 
 ---
 
