@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xibo E-ink</string>
+    <string name="settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="title">Xibo E-ink Client</string>
+    <string name="initializing">Initializing…</string>
+    <string name="eink_initialized">✓ E-ink display initialized</string>
+    <string name="eink_not_available">✗ E-ink device not available</string>
+    <string name="standard_mode">Running in standard display mode</string>
+
+    <!-- Buttons -->
+    <string name="btn_full_refresh">Full Refresh</string>
+    <string name="btn_partial_refresh">Partial Refresh</string>
+    <string name="btn_clear_screen">Clear Screen</string>
+    <string name="btn_test_pattern">Test Pattern</string>
+
+    <!-- Messages -->
+    <string name="full_refresh_success">Full refresh triggered</string>
+    <string name="full_refresh_failed">Full refresh failed</string>
+    <string name="partial_refresh_success">Partial refresh triggered</string>
+    <string name="partial_refresh_failed">Partial refresh failed</string>
+    <string name="screen_cleared">Screen cleared</string>
+    <string name="clear_failed">Clear failed</string>
+
+    <!-- Device Info -->
+    <string name="refresh_count">Refresh Count: %d</string>
+    <string name="device_model">Device: %s</string>
+    <string name="manufacturer">Manufacturer: %s</string>
+    <string name="android_version">Android: %s</string>
+    <string name="eink_available">E-ink Available: %s</string>
+</resources>
